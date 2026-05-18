@@ -347,7 +347,7 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
     - An insider’s perspective on what interviewers are truly looking for and why.
     - 101 real coding interview problems with detailed solutions.
     - Intuitive explanations that guide you through each problem as if you were solving it in a live interview.
-    - 1000+ diagrams to illustrate key concepts and patterns.	
+    - 1000+ diagrams to illustrate key concepts and patterns.
 
 ### C
 
@@ -577,8 +577,9 @@ But don't forget to do coding problems from above while you learn!
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - Don't worry if you don't understand all the math behind it.
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [ ] [Data Structures & Algorithms - Session 2 - Complexity Analysis Arabic](https://www.youtube.com/watch?v=w9SMLh9uHv4&list=PLmaO6hgzMGBr3qzsh1L4J9BUD_TIAv9E-&index=6)
+- [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
 - [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
